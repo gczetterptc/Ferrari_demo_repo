@@ -13,4 +13,36 @@
     "fuel_level_percent": 46.7,
     "engine_temp_c": 93.0
   }
+    {
+    "timestamp": "2025-05-05T12:02:00Z",
+    "speed_kph": 92,
+    "rpm": 3150,
+    "fuel_level_percent": 46.3,
+    "engine_temp_c": 93.5,
+    "battery_voltage": 14.0
+  },
+  {
+    "timestamp": "2025-05-05T12:03:00Z",
+    "speed_kph": 95,
+    "rpm": 3200,
+    "fuel_level_percent": 45.9,
+    "engine_temp_c": 94.0,
+    "battery_voltage": 14.1
+  },
+  {
+    "timestamp": "2025-05-05T12:04:00Z",
+    "speed_kph": 97,
+    "rpm": 3250,
+    "fuel_level_percent": 45.4,
+    "engine_temp_c": 94.6,
+    "battery_voltage": 14.1
+  },
+  {
+    "timestamp": "2025-05-05T12:05:00Z",
+    "speed_kph": 100,
+    "rpm": 3300,
+    "fuel_level_percent": 45.0,
+    "engine_temp_c": 95.1,
+    "battery_voltage": 14.2
+  }
 ]
