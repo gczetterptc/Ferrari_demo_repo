@@ -13,6 +13,6 @@ This repository simulates a basic car telematics system that collects vehicle da
 - React (dashboard UI)
 - JSON (mock telemetry data)
 
----
+-----
 
 ⚠️ This is for demonstration purposes only.
