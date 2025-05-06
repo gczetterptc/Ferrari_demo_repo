@@ -29,8 +29,6 @@ export default function Dashboard() {
               <td>{entry.speed_kph}</td>
               <td>{entry.rpm}</td>
               <td>{entry.fuel_level_percent}</td>
-              <td>{entry.engine_temp_c}</td>
-              <td>{entry.battery_voltage}</td>
             </tr>
           ))}
         </tbody>
