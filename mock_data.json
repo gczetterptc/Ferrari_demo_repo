@@ -6,6 +6,20 @@
     "fuel_level_percent": 47.2,
     "engine_temp_c": 92.1
   },
+    {
+    "timestamp": "2025-05-05T12:00:00Z",
+    "speed_kph": 88,
+    "rpm": 3000,
+    "fuel_level_percent": 47.2,
+    "engine_temp_c": 92.1
+  },
+    {
+    "timestamp": "2025-05-05T12:00:00Z",
+    "speed_kph": 88,
+    "rpm": 3000,
+    "fuel_level_percent": 47.2,
+    "engine_temp_c": 92.1
+  },
   {
     "timestamp": "2025-05-05T12:01:00Z",
     "speed_kph": 90,
