@@ -19,8 +19,7 @@ export default function Dashboard() {
             <th>Speed (kph)</th>
             <th>RPM</th>
             <th>Fuel Level (%)</th>
-            <th>Engine Temp (°C)</th>
-            <th>Battery Voltage (V)</th>
+
           </tr>
         </thead>
         <tbody>
